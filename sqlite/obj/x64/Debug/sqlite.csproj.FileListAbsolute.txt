@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\sqlite\sqlite\bin\x64\Debug\sqlite.exe.config
+d:\documents\visual studio 2015\Projects\sqlite\sqlite\bin\x64\Debug\sqlite.exe
+d:\documents\visual studio 2015\Projects\sqlite\sqlite\bin\x64\Debug\sqlite.pdb
+d:\documents\visual studio 2015\Projects\sqlite\sqlite\bin\x64\Debug\System.Data.SQLite.dll
+d:\documents\visual studio 2015\Projects\sqlite\sqlite\bin\x64\Debug\System.Data.SQLite.Linq.dll
+d:\documents\visual studio 2015\Projects\sqlite\sqlite\bin\x64\Debug\System.Data.SQLite.pdb
+d:\documents\visual studio 2015\Projects\sqlite\sqlite\bin\x64\Debug\System.Data.SQLite.Linq.pdb
+d:\documents\visual studio 2015\Projects\sqlite\sqlite\obj\x64\Debug\sqlite.exe
+d:\documents\visual studio 2015\Projects\sqlite\sqlite\obj\x64\Debug\sqlite.pdb
